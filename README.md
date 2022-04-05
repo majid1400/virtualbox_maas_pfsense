@@ -17,6 +17,7 @@ This project shows to set up maas and pfsense inside the virtualbox.
   - Name: vboxnet0
   
 4- start VM and install ubuntu
-  - setting:
   
 ```
+## setting ubuntu server:
+  ![editIPv4](images/editIPv4.png )
